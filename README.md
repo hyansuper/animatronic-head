@@ -10,7 +10,7 @@ Hardware:
 * RPi camera
 
 Dependency:
-* pip install numpy, scipy, PIL, flask, flask-socketio, face_recognition
+* pip install numpy scipy Pillow flask flask-socketio face_recognition
 
 python web.py<br>
 then visit <rpi_ip_address>:5000
