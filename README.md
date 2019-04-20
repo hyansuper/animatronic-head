@@ -15,4 +15,4 @@ Dependency:
 python web.py<br>
 then visit <rpi_ip_address>:5000
 
-code for Camera streaming to web page is referenced from https://github.com/miguelgrinberg/flask-video-streaming/tree/master
+code in web.py is remix from [miguelgrinberg/flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming) and [CoretechR/ZeroBot](https://github.com/CoretechR/ZeroBot)
