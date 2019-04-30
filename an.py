@@ -58,7 +58,7 @@ Servo.pwm.set_pwm_freq(60)
 
 left_eye = Servo(0,-40,40,Servo.servo_mid-Servo.servo_40,Servo.servo_mid+Servo.servo_40)
 right_eye = Servo(4,-40,40,Servo.servo_mid-Servo.servo_40,Servo.servo_mid+Servo.servo_40)
-left_eyelid = Servo(1,0,90,Servo.servo_mid-Servo.servo_45+20,Servo.servo_mid+Servo.servo_45+20)
+left_eyelid = Servo(1,0,90,Servo.servo_mid-Servo.servo_45+20,Servo.servo_mid+Servo.servo_45+20)# the "+20" is an adjustment for my own servo
 right_eyelid = Servo(5,0,90,Servo.servo_mid+Servo.servo_45,Servo.servo_mid-Servo.servo_45)
 left_brow = Servo(2,-30,30,Servo.servo_mid-Servo.servo_30,Servo.servo_mid+Servo.servo_30)
 right_brow = Servo(6,-30,30,Servo.servo_mid+Servo.servo_30,Servo.servo_mid-Servo.servo_30)
