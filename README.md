@@ -2,6 +2,8 @@
 
 Python code for my 3d printed animatronic head
 
+[video](https://www.bilibili.com/video/av50975243/)
+
 ### Hardware:
 * Raspberry Pi Zero W
 * Adafruit 16-channel servo controller
