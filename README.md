@@ -1,15 +1,19 @@
 # animatronic-head
 
-Python code for my 3d printed animatronic head
-
 [video](https://www.bilibili.com/video/av50975243/)
 
-### Hardware:
+![](image.png)
+
+## Hardware:
 * Raspberry Pi Zero W
 * Adafruit 16-channel servo controller
 * 996 servo X3
 * 9g plastic servo X8
 * RPi camera
+
+## Software
+
+Python code for my 3d printed animatronic head
 
 ### Dependency:
     pip install numpy scipy Pillow flask flask-socketio face_recognition
